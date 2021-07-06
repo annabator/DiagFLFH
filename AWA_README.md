@@ -1,2 +1,3 @@
 - uses LeNet as base network
-- built with TensorFlow 
+- built with TensorFlow (-)
+- small and simple (+)
