@@ -1,0 +1,2 @@
+- uses LeNet as base network
+- built with TensorFlow 
